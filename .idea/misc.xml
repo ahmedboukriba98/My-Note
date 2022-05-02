@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable-v24/ic_arrow.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.209" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.209" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/arb.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/bac.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/bb.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/bgbo.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/border.xml" value="0.2265" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/bq.xml" value="0.2265" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/chat.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/event.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/exit.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/ic_baseline_insert_photo_24.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/ic_no.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/ic_setting.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/ic_walt.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/login.xml" value="0.227" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/nn.xml" value="0.209" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/passowrd.xml" value="0.205" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/pfe.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/plus.xml" value="0.205" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/profile.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/searsh.xml" value="0.124" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/topp.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/user.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/drawable/withe_back.xml" value="0.202" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_chatbox.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_event.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_gallery.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_grid_item.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_note_acc.xml" value="0.136" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_profile.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_signup.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/activity_staf.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/birthday.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/item_add.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/item_email.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/item_image.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/item_info.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/main_fragment.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/nanoevent_activity.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/pfa.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/pfe.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/profile.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/projee.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/row_data.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/layout/social.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/menu/add_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/StudioProjects/MyApplication7/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
